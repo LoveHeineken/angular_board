@@ -14,3 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+/vendor/bundle
+/.idea
+/front/node_modules
+/front/.tmp
+/front/.sass-cache
+/front/app/bower_components
