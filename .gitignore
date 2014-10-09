@@ -20,3 +20,9 @@
 /front/.tmp
 /front/.sass-cache
 /front/app/bower_components
+
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
